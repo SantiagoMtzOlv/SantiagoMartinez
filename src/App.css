@@ -1,3 +1,6 @@
+body{
+
+}
 .App {
   text-align: center;
 }
@@ -6,7 +9,13 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+a{
+  text-decoration: none;
+  transition: font-weight .5s ease;
+}
+a:hover{
+  font-weight: bold;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -25,7 +34,8 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ffffff;
+  margin-top: 2rem;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +45,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.contacto{
+  margin-top: 2rem;
+  font-weight: bold;
+}
+.correos{
+  display: flex;
+  flex-direction: column;
 }
