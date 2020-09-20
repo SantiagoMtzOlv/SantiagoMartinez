@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SantiagoMartinez/static/css/main.5d35529c.chunk.css",
+    "main.js": "/SantiagoMartinez/static/js/main.272ec980.chunk.js",
+    "main.js.map": "/SantiagoMartinez/static/js/main.272ec980.chunk.js.map",
+    "runtime-main.js": "/SantiagoMartinez/static/js/runtime-main.c6787887.js",
+    "runtime-main.js.map": "/SantiagoMartinez/static/js/runtime-main.c6787887.js.map",
+    "static/js/2.12c1f2d3.chunk.js": "/SantiagoMartinez/static/js/2.12c1f2d3.chunk.js",
+    "static/js/2.12c1f2d3.chunk.js.map": "/SantiagoMartinez/static/js/2.12c1f2d3.chunk.js.map",
+    "index.html": "/SantiagoMartinez/index.html",
+    "precache-manifest.9d33a8b517f49eb995710b2f73c6ceb1.js": "/SantiagoMartinez/precache-manifest.9d33a8b517f49eb995710b2f73c6ceb1.js",
+    "service-worker.js": "/SantiagoMartinez/service-worker.js",
+    "static/css/main.5d35529c.chunk.css.map": "/SantiagoMartinez/static/css/main.5d35529c.chunk.css.map",
+    "static/js/2.12c1f2d3.chunk.js.LICENSE.txt": "/SantiagoMartinez/static/js/2.12c1f2d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6787887.js",
+    "static/js/2.12c1f2d3.chunk.js",
+    "static/css/main.5d35529c.chunk.css",
+    "static/js/main.272ec980.chunk.js"
+  ]
+}
