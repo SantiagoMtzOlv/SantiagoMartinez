@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SantiagoMartinez/static/css/main.4f52c63c.chunk.css",
-    "main.js": "/SantiagoMartinez/static/js/main.0c33dee2.chunk.js",
-    "main.js.map": "/SantiagoMartinez/static/js/main.0c33dee2.chunk.js.map",
+    "main.js": "/SantiagoMartinez/static/js/main.05eda732.chunk.js",
+    "main.js.map": "/SantiagoMartinez/static/js/main.05eda732.chunk.js.map",
     "runtime-main.js": "/SantiagoMartinez/static/js/runtime-main.c6787887.js",
     "runtime-main.js.map": "/SantiagoMartinez/static/js/runtime-main.c6787887.js.map",
     "static/js/2.c0eba308.chunk.js": "/SantiagoMartinez/static/js/2.c0eba308.chunk.js",
     "static/js/2.c0eba308.chunk.js.map": "/SantiagoMartinez/static/js/2.c0eba308.chunk.js.map",
     "index.html": "/SantiagoMartinez/index.html",
-    "precache-manifest.9b2b5f614342c8f4887bcfe1cc3d7bf0.js": "/SantiagoMartinez/precache-manifest.9b2b5f614342c8f4887bcfe1cc3d7bf0.js",
+    "precache-manifest.05db28ea45520c7e007805abd1cdeb34.js": "/SantiagoMartinez/precache-manifest.05db28ea45520c7e007805abd1cdeb34.js",
     "service-worker.js": "/SantiagoMartinez/service-worker.js",
     "static/css/main.4f52c63c.chunk.css.map": "/SantiagoMartinez/static/css/main.4f52c63c.chunk.css.map",
     "static/js/2.c0eba308.chunk.js.LICENSE.txt": "/SantiagoMartinez/static/js/2.c0eba308.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c6787887.js",
     "static/js/2.c0eba308.chunk.js",
     "static/css/main.4f52c63c.chunk.css",
-    "static/js/main.0c33dee2.chunk.js"
+    "static/js/main.05eda732.chunk.js"
   ]
 }
