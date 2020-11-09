@@ -1,26 +1,41 @@
 import React from 'react';
+import { FaFilePdf, FaHome, FaRegEnvelope, FaGithubSquare } from "react-icons/fa";
+import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
+import Inicio from "./components/Inicio";
+import Contact from "./components/Contact";
 import './App.css';
+import Cv from './cv.pdf'
+import Wave from './img/wave.svg'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h2>Santiago Martínez</h2>
-        <a
-          className="App-link"
-          href="https://github.com/SantiagoMtzOlv"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          My GitHub
+    <Router>
+      <header className="navbar">
+        <NavLink to="/" className="enlaces" activeClassName="active">
+            <FaHome /> Home
+        </NavLink>
+        <NavLink to="/contact" className="enlaces enlace-menu" activeClassName="active-menu">
+            <FaRegEnvelope /> Contact Me
+        </NavLink>
+        <a href={Cv} target="_blank" rel="noopener noreferrer" className="enlaces enlace-menu">
+          <FaFilePdf /> CV
         </a>
-        <span className="contacto">Contact Me:</span>
-        <div className="correos">
-          <span>martisamo@gmail.com</span>
-          <span>santaigo.mtzolv@gmail.com</span>
-        </div>
+        <a href="https://github.com/SantiagoMtzOlv" target="_blank" rel="noopener noreferrer" className="enlaces enlace-menu">
+          <FaGithubSquare /> My GitHub
+        </a>
       </header>
-    </div>
+      <Switch>
+          <Route path="/" exact>
+            <Inicio />
+          </Route>
+          <Route path="/contact">
+            <Contact />
+          </Route>
+        </Switch>
+      <footer className="footer">
+        <img src={Wave} alt="footer"/>
+      </footer>
+    </Router>
   );
 }
 
