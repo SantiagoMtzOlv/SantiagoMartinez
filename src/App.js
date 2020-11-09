@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <header className="navbar">
-        <NavLink to="/" className="enlaces" activeClassName="active">
+        <NavLink to="/SantiagoMartinez" className="enlaces" activeClassName="active">
             <FaHome /> Home
         </NavLink>
         <NavLink to="/contact" className="enlaces enlace-menu" activeClassName="active-menu">
