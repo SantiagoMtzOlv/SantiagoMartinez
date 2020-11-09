@@ -25,7 +25,7 @@ function App() {
         </a>
       </header>
       <Switch>
-          <Route path="/" exact>
+          <Route path="/SantiagoMartinez" exact>
             <Inicio />
           </Route>
           <Route path="/contact">
