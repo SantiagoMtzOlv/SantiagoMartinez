@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/SantiagoMartinez/static/css/main.5d35529c.chunk.css",
-    "main.js": "/SantiagoMartinez/static/js/main.272ec980.chunk.js",
-    "main.js.map": "/SantiagoMartinez/static/js/main.272ec980.chunk.js.map",
+    "main.css": "/SantiagoMartinez/static/css/main.4f52c63c.chunk.css",
+    "main.js": "/SantiagoMartinez/static/js/main.5a277c7f.chunk.js",
+    "main.js.map": "/SantiagoMartinez/static/js/main.5a277c7f.chunk.js.map",
     "runtime-main.js": "/SantiagoMartinez/static/js/runtime-main.c6787887.js",
     "runtime-main.js.map": "/SantiagoMartinez/static/js/runtime-main.c6787887.js.map",
-    "static/js/2.12c1f2d3.chunk.js": "/SantiagoMartinez/static/js/2.12c1f2d3.chunk.js",
-    "static/js/2.12c1f2d3.chunk.js.map": "/SantiagoMartinez/static/js/2.12c1f2d3.chunk.js.map",
+    "static/js/2.c0eba308.chunk.js": "/SantiagoMartinez/static/js/2.c0eba308.chunk.js",
+    "static/js/2.c0eba308.chunk.js.map": "/SantiagoMartinez/static/js/2.c0eba308.chunk.js.map",
     "index.html": "/SantiagoMartinez/index.html",
-    "precache-manifest.0ae6be0e022a2ca26998bd617c411a2e.js": "/SantiagoMartinez/precache-manifest.0ae6be0e022a2ca26998bd617c411a2e.js",
+    "precache-manifest.fdbc2f68a03accd177bfbc82ff8558ea.js": "/SantiagoMartinez/precache-manifest.fdbc2f68a03accd177bfbc82ff8558ea.js",
     "service-worker.js": "/SantiagoMartinez/service-worker.js",
-    "static/css/main.5d35529c.chunk.css.map": "/SantiagoMartinez/static/css/main.5d35529c.chunk.css.map",
-    "static/js/2.12c1f2d3.chunk.js.LICENSE.txt": "/SantiagoMartinez/static/js/2.12c1f2d3.chunk.js.LICENSE.txt"
+    "static/css/main.4f52c63c.chunk.css.map": "/SantiagoMartinez/static/css/main.4f52c63c.chunk.css.map",
+    "static/js/2.c0eba308.chunk.js.LICENSE.txt": "/SantiagoMartinez/static/js/2.c0eba308.chunk.js.LICENSE.txt",
+    "static/media/cv.pdf": "/SantiagoMartinez/static/media/cv.c9fbd40b.pdf",
+    "static/media/logo.svg": "/SantiagoMartinez/static/media/logo.93ad24ee.svg",
+    "static/media/mail.svg": "/SantiagoMartinez/static/media/mail.c8c567df.svg",
+    "static/media/wave.svg": "/SantiagoMartinez/static/media/wave.91fca7a8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c6787887.js",
-    "static/js/2.12c1f2d3.chunk.js",
-    "static/css/main.5d35529c.chunk.css",
-    "static/js/main.272ec980.chunk.js"
+    "static/js/2.c0eba308.chunk.js",
+    "static/css/main.4f52c63c.chunk.css",
+    "static/js/main.5a277c7f.chunk.js"
   ]
 }
